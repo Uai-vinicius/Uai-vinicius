@@ -1,6 +1,6 @@
 ## Olá sou Vinicius de Matos e estou mergulhando no mundo da tecnologia !
 
-- 👀 I’m interested in learning more about Computação em Nuvem
+- 👀 I’m interested in learning more about Cloud Computing.
 - 🌱 I’m currently learning C#, Spring ;
 - 📫 How to reach me viniciusmatos10@live.com
 
