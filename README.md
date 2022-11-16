@@ -34,6 +34,8 @@
 <a href="https://www.linkedin.com/in/vinicius--matos/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
  </a> 
+  
+  ![Snake animation](https://github.com/Uai-vinicius/Uai-vinicius/blob/output/github-contribution-grid-snake.svg)
 </div>
 <!---
 Uai-vinicius/Uai-vinicius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
